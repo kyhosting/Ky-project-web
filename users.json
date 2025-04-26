@@ -1,0 +1,4 @@
+[
+  { "username": "admin", "password": "123", "name": "Admin", "photo": "https://i.pravatar.cc/100?img=1" },
+  { "username": "user", "password": "abc", "name": "User Biasa", "photo": "https://i.pravatar.cc/100?img=2" }
+]
